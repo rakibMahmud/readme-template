@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786481695737",
+    "project_id": "myhealth-5b412",
+    "storage_bucket": "myhealth-5b412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786481695737:android:c8b5877f9adea73f28cb28",
+        "android_client_info": {
+          "package_name": "com.rakibsabbir.cardiacrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786481695737-h22ui6c58el00hovhl6dmnsrp2kc4cje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrvofKANlK2HDonXeKePKVJVDnmU_ET4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786481695737-h22ui6c58el00hovhl6dmnsrp2kc4cje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
